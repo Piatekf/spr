@@ -1,0 +1,429 @@
+    1  cd desktop
+    2  cd lekcja
+    3  git init
+    4  git remote add origin https://github.com/janDuszynski/lesson.git
+    5  git clone
+    6  git clone origin
+    7  git clone https://github.com/janDuszynski/lesson.git
+    8  dir
+    9  cd lesson
+   10  dir
+   11  git log --oneline
+   12  git log --oneline -1
+   13  git log --oneline -2
+   14  git shortlog
+   15  git log --author="Jan Duszyński"
+   16  git log --oneline --README.md
+   17  git log --oneline -- README.md
+   18  git log --oneline --format="%h %an %s %cr"
+   19  cls
+   20  clear
+   21  touch plik
+   22  git add .
+   23  git commit -m"Dodane pliku"
+   24  git commit -m "Dodane pliku"
+   25  git config --global user.email "jasiek.duszynski@gmail.com"
+   26  git config --global user.name "Jan Duszyński"
+   27  git commit -m "Dodane pliku"
+   28  git push
+   29  git format="%an (%s)"
+   30  git log --format="%an (%s)"
+   31  alias c = clear
+   32  alias c=clear
+   33  c
+   34  git log --format="%an (%s)"
+   35  c
+   36  clear
+   37  clear
+   38  voith
+   39  clear
+   40  git log --author="Jan Duszyński"
+   41  git log --author="Jan Duszyński" -3
+   42  c
+   43  git shortlog
+   44  git log --oneline -1
+   45  git log -- plik
+   46  git log --author="Dawid von BArtczak"
+   47  git config --global user.email "Dawid@dasd.pl"
+   48  cd ..
+   49  cd desktop
+   50  cd C:\Users\student\Desktop\repo
+   51  cd student
+   52  cd desktop
+   53  cd repo
+   54  git init
+   55  alias c = clear
+   56  clear
+   57  touch plik.txt 
+   58  clear
+   59  git remote add origin 
+   60  git remote add origin https://github.com/janDuszynski/repozytorium-testowe.git
+   61  git clone
+   62  git clone origin
+   63  dir
+   64  git clone https://github.com/janDuszynski/repozytorium-testowe.git
+   65  dir
+   66  git branch
+   67  dir
+   68  git checkout
+   69  git branch zsk
+   70  git checkout zsk
+   71  git branch --help
+   72  git branch -b ZSK
+   73  git branch -b zsk
+   74  git checkout -b zsk
+   75  git branch
+   76  git checkout
+   77  git clone https://github.com/janDuszynski/repozytorium-testowe.git
+   78  dir
+   79  git commit -m "test"
+   80  git add .
+   81  git commit -m "test"
+   82  git push
+   83   git push --set-upstream origin zsk
+   84   git push --set-upstream origin zsk
+   85   git push --set-upstream origin zsk
+   86  git branch
+   87  git checkout -b main
+   88  git push
+   89  git push --set-upstream origin main
+   90  git checkout ZSK
+   91  touch zsk
+   92  git status
+   93  dir
+   94  git checkout main
+   95  dir
+   96  git branch test
+   97  git checkouk test
+   98  git checkout test
+   99  git branch
+  100  git status
+  101  git add .
+  102  git commit -m "serwer"
+  103  git push
+  104  git push --set-upstream origin test
+  105  git status
+  106  lllllllll
+  107  alias voith
+  108  git push origin test
+  109  git add .
+  110  git branch -d ZSK
+  111  git checkout main
+  112  git merge test
+  113  git branch
+  114  git add .
+  115  git commit -m "voith diva 3e"
+  116  git push 
+  117  git push origin main
+  118  git push --set-upstream origin main
+  119  git push --set-upstream origin main
+  120  git push origin test
+  121  git push origin main
+  122  git branch main
+  123  git clear
+  124  git init
+  125  git clone https://github.com/PMendelewski/franek.git
+  126  cd franek
+  127  git config
+  128  git config --global user.name "Patryk"
+  129  git config --global user.email "patryk.menedelewski@gmail.com"
+  130  git clone https://github.com/PMendelewski/franek.git
+  131  cd franek
+  132  git branch
+  133  git branch zsk
+  134  git branch
+  135  git checkout zsk
+  136  git branch
+  137  git status
+  138  git push -u origin zsk
+  139  touch plikzsk
+  140  git add .
+  141  git status
+  142  git checkout main
+  143  git commit -m"Dodanie nowych plików na branchu"
+  144  git push -u origin main
+  145  git checkout -b stasiu
+  146  git branch
+  147  git checkout -b
+  148  git checkout zsk
+  149  git push -u origin main
+  150  git push -u origin stasiu
+  151  touch filedanger
+  152  git add .
+  153  git commit -m"UWAGA NIEBEZPIECZNY PLIK"
+  154  git checkout stasiu
+  155  git push -u origin stasiu
+  156  git checkout zsk
+  157  ls
+  158  ls /a
+  159  git merge stasiu
+  160  git merge stasiu
+  161  git branch --delete stasiu
+  162  git branch
+  163  git push -u origin -d
+  164  git push -u origin -d stasiu
+  165  touch filezskostatni
+  166  git checkout main
+  167  git status
+  168  touch filemainostatni
+  169  git add .
+  170  git commit -m"Dodanie dwóch plików"
+  171  git push --all
+  172  cd desktop
+  173  git init
+  174  mkdir voith
+  175  voith
+  176  git remote add https://github.com/janDuszynski/repo-test.git
+  177  git remote add origin https://github.com/janDuszynski/repo-test.git
+  178  git clone https://github.com/janDuszynski/repo-test.git
+  179  cd repo-test
+  180  clear
+  181  dir
+  182  git log --oneline
+  183  git stat
+  184  git log --stats
+  185  git log --stat
+  186  git voith --help
+  187  git --help
+  188  alias voith = 'git log --oneline'
+  189  alias voith = "git log --oneline"
+  190  alias voith = git log --oneline
+  191  clear
+  192  alias c clear
+  193  alias cls = clear
+  194  clea
+  195  clear
+  196  /
+  197  //
+  198  ////
+  199  cler
+  200  clear
+  201  git log --oneline
+  202  git touch plik
+  203  touch plik
+  204  git add .
+  205  git commit -m "nowy plik"
+  206  git push
+  207  git config --global user.name "janDuszynski"
+  208  git config --global user.email "jasiek.duszynski@gmail.com"
+  209  git push
+  210  git push
+  211  touch plik213456
+  212  git add .
+  213  git commit -m"push"
+  214  git push
+  215  git config --global user.email "wojtek-plonka@SKORZEWO.EU"
+  216  git config --global user.name "wojtek plonka alright alright"
+  217  clear
+  218  git add .
+  219  git commi t-m"sd"
+  220  git commi -m"sd"
+  221  git commit -m"sd"
+  222  git pushgit push
+  223  git pushgit pushgit pushgit push
+  224  git push
+  225  npm install -g trolol
+  226  git clone https://github.com/PMendelewski/kocik.git
+  227  cd kocik
+  228  git log grep="kocik"
+  229  git log
+  230  git log --patch
+  231  git log --stat
+  232  git log author="PMendelewski"
+  233  git log --author="PMendelewski"
+  234  git log -- miki.css
+  235  git log --format="%an [%s]"
+  236  git log --help
+  237  cd 
+  238  dir
+  239  cd ..
+  240  dir
+  241  cd desktop
+  242  git init
+  243  cd desktop
+  244  cd desktop
+  245  git clone https://github.com/PMendelewski/MutiAndIlli.git
+  246  cd MutiAndIlli
+  247  touch pliczek
+  248  add.
+  249  git add.
+  250  git add .
+  251  git status
+  252  git commit -m"Entliczek Pentliczek Czerwony Stoliczek"
+  253  git push origin master
+  254  history
+  255  cd desktop
+  256  cd github
+  257  git init
+  258  git remote add https://github.com/janDuszynski/rozczka.git
+  259  git remote add origin https://github.com/janDuszynski/rozczka.git
+  260  git clone
+  261  git clone https://github.com/janDuszynski/rozczka.git
+  262  dir
+  263  cd rozczka
+  264  touch plik
+  265  touch folder/
+  266  touch /folder/
+  267  touch /folder
+  268  mkdir folder
+  269  cd folder
+  270  touch plikfolder
+  271  git add .
+  272  git commit -m "nie ważne"
+  273  git push
+  274  git push
+  275  cd .
+  276  cd ..
+  277  git add .
+  278  git commit -m"komit"
+  279  git push
+  280  code plik
+  281  cat plik
+  282  git commit -m"konfilkt :)"
+  283  git add .
+  284  git commit -m"konfilkt :)"
+  285  git push
+  286  git branch -b o
+  287  git checkout o
+  288  git checkout -b o
+  289  cat plik
+  290  git pull
+  291  code plik
+  292  git add .
+  293  git commit -m "kommit"
+  294  git push
+  295  git checkout main
+  296  git push
+  297  git pull
+  298  git push
+  299  git status
+  300  cat plik
+  301  git checkout -b o
+  302  git checkout o
+  303  code plik
+  304  git push
+  305  git branch
+  306  git checkout
+  307  git checkout main
+  308  git branch
+  309  cd o
+  310  cat o
+  311  cat plik
+  312  git push origin o
+  313  git merge o
+  314  git merge c
+  315  git pull
+  316  git merge
+  317  cd ..
+  318  git push
+  319  git merge
+  320  git merge o
+  321  git push
+  322  git merge
+  323  git merge c
+  324  git push
+  325  touch voith
+  326  git add .
+  327  git commit -m"sdd"
+  328  git push
+  329  git push origin master
+  330  dir
+  331  git pull
+  332  cd rozczka
+  333  dir
+  334  code folder
+  335  cd .
+  336  code plik
+  337  git commit -m"sdada"
+  338  git push
+  339  git push origin main
+  340  code plik
+  341  vim git push origin main
+  342  history > plik
+  343  cat plik
+  344  subl 
+  345  cd/sprawdzian
+  346  cd sprawdzian
+  347  git clone https://github.com/FilipKielar/Janusz
+  348  cd janusz
+  349  touch test.txt
+  350  git add .
+  351  git commit -m "test"
+  352  git push origin main
+  353  echo file.txt>"Kielar"
+  354  cat file.txt
+  355  git Kielar>file.txt
+  356  echo Kielar>file.txt
+  357  git add .
+  358  git add .
+  359  git commit -m "wyslanie pliku file"
+  360  git push origin main
+  361  git log --author="banan" -2
+  362  git branch filip
+  363  git checkout filip
+  364  echo Filip > file.txt
+  365  git commit -m "proba konfilktu"
+  366  git add .
+  367  git commit -m "proba konfilktu"
+  368  git push origin filip
+  369  .nano file.txt
+  370  nano file.txt
+  371  git add .
+  372  git merge branch kuba
+  373  git checkout main
+  374  nano file.txt
+  375  nano file.txt
+  376  cd sprawdzian
+  377  cd janusz
+  378  history
+  379  cd pulpit
+  380  ls -la
+  381  mkdir "spr"
+  382  cd spr
+  383  git clone https://github.com/Piatekf/spr.git
+  384  cd spr
+  385  touch krystyna.docx
+  386  echo "Piatek" >> krystyna.docx
+  387  git add .
+  388  git commit -m "commit"
+  389  git push origin  main
+  390  git config --global user.email
+  391  git config --global user.email = "filip.piatek2005@gmail.com"
+  392  git config --global user.email
+  393  git config --global user.email "filip.piatek2005@gmail.com"
+  394  git config --global user.email
+  395  git config --global user.email=filip.piatek2005@gmail.com
+  396  git config --global user.email
+  397  clear() cls
+  398  cd spr
+  399  cd spr
+  400  git push origin main
+  401  git config --global user.name "fPiatek"
+  402  git config --global user.name
+  403  git push origin main
+  404  cd spr
+  405  cd spr
+  406  git push origin main
+  407  git log --author janusz -2
+  408  git log --author="janusz" -2
+  409  cd ..
+  410  cd kart
+  411  mkdir kartk
+  412  cd karkt
+  413  cd kartk
+  414  git clone https://github.com/PMendelewski/JJS.git
+  415  cd JJS
+  416  echo "Piatek" > plik
+  417  git add .
+  418  git commit -m "commit Filipa"
+  419  git push origin master
+  420  code .
+  421  git pull origin master
+  422  code .
+  423  git add .
+  424  git commit -m "merge"
+  425  git push origin master
+  426  history
+  427  cd spr
+  428  cd spr
+  429  history > history.txt
